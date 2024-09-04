@@ -1,1 +1,3 @@
-# karthi
+l='ahgsbddh'
+l=l[:2]+'111111'+l[2:]
+print(*l)
